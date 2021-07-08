@@ -1,6 +1,7 @@
 body{
     text-align: center;
     margin:0;
+    
 }
 #mainpic{
     border-radius: 50%;
@@ -90,3 +91,24 @@ html{
     scroll-behavior: smooth;
 }
 
+#Hobbies{
+    background-color:violet;
+}
+
+#work{
+    background-color: aquamarine;
+}
+
+#Inspiration{
+    background-color: coral;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+    transition: transform 0.5s;
+}
+
+img:hover{
+    transform: scale(0.8);
+}
