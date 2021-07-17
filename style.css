@@ -112,3 +112,7 @@ img{
 img:hover{
     transform: scale(0.8);
 }
+
+#contacts iframe{
+    width: 100%;
+}
